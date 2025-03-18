@@ -130,36 +130,4 @@
     </section>
     <!-- testimonial-section end -->
 
-    <!-- company-section -->
-    <section class="company-section">
-        <div class="auto-container">
-            <div class="row align-items-center">
-                <div class="col-lg-7 col-md-12 col-sm-12 content-column">
-                    <div class="content-box">
-                        <div class="sec-title">
-                            <h6>about our service</h6>
-                            <h2>Cleanex Cleaning Company</h2>
-                        </div>
-                        <div class="text">
-                            <p>At Airtronix, we provide a comprehensive range of air conditioner services including Air conditioner repair, AC installation/removal, AC servicing, aircon servicing, AC gas filling charges, leakage repair, advanced piping, and more- all available at affordable and transparent prices.</p>
-                            <p>Besides, you can book our AC services from the comfort of your home.You just need to give us a call or send us your query to book our professional AC repair services within minutes whether the issue is big or small, our professionals will come to provide doorstep repair solutions at the promised time. Our 30 days service warranty further assures you that you’ll get the best value for your money.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-5 col-md-12 col-sm-12 inner-column">
-                    <div class="list-inner">
-                        <ul class="list clearfix">
-                            <li>High-Quality AC Repairs</li>
-                            <li>Experienced AC Service Engineers</li>
-                            <li>90-day warranty on spare parts</li>
-                            <li>AC AMC (Annual Maintenance) Available</li>
-                            <li>30-day warranty on service</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- company-section end -->
-
 @endsection
