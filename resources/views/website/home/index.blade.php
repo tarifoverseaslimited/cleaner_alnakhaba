@@ -172,15 +172,13 @@
         <div class="outer-container">
             <div class="four-item-carousel owl-carousel owl-theme owl-dots-none nav-style-one">
                 @foreach($projects as $project)
-                <div class="project-block-one">
-                    <div class="inner-box">
-                        <figure class="image-box">
-                            <a href="{{route('projectDetails',$project['slug'])}}">
+                    <div class="project-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box">
                                 <img src="{{asset('/')}}{{$project['image']}}" alt="">
-                            </a>
-                        </figure>
+                            </figure>
+                        </div>
                     </div>
-                </div>
                 @endforeach
             </div>
         </div>

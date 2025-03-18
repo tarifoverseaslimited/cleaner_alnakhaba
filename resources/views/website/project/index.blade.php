@@ -27,11 +27,9 @@
                                 <div class="content-box">
                                     <ul class="option-list clearfix">
                                         <li><a href="{{asset('/')}}{{$project['image']}}" class="lightbox-image" data-fancybox="gallery"><i class="flaticon-zoom"></i></a></li>
-                                        <li><a href="{{route('projectDetails',$project['slug'])}}"><i class="flaticon-link"></i></a></li>
                                     </ul>
                                     <div class="text">
                                         <h6>{{ $project['name'] }}</h6>
-                                        <h4><a href="{{route('projectDetails',$project['slug'])}}">{{ $project['service'] }}</a></h4>
                                     </div>
                                 </div>
                             </div>

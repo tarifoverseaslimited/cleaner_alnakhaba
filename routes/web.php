@@ -18,7 +18,7 @@ Route::get('/',[WebsiteController::class,'index'])->name('home');
 Route::get('/services',[WebsiteController::class,'service'])->name('service');
 Route::get('/service/{slug}',[WebsiteController::class,'serviceDetails'])->name('serviceDetails');
 Route::get('/projects',[WebsiteController::class,'project'])->name('project');
-Route::get('/project/{slug}',[WebsiteController::class,'projectDetails'])->name('projectDetails');
+//Route::get('/project/{slug}',[WebsiteController::class,'projectDetails'])->name('projectDetails');
 Route::get('/blogs',[WebsiteController::class,'blog'])->name('blog');
 Route::get('/blog/{slug}',[WebsiteController::class,'blogDetails'])->name('blogDetails');
 Route::get('/about-us',[WebsiteController::class,'about'])->name('about');
