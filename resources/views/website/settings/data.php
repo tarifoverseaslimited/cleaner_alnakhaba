@@ -4,7 +4,7 @@ return [
   'id' => '1',
   'company_name' => 'Al Nakhaba',
   'home_title_name' => 'Al Nakhaba',
-  'top_welcome' => 'Welcome to Cleaning Company of Al Nakhaba.',
+  'top_welcome' => 'Welcome to Cleaning Company of <b>Al Nakhaba.</b>',
   'top_helpline' => '00966 1 4535822',
   'top_email' => 'info@alnakhaba.com',
   'facebook' => '',

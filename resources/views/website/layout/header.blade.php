@@ -4,7 +4,7 @@
         <div class="auto-container">
             <div class="top-inner">
                 <div class="text">
-                    <p>{{$setting['top_welcome']}}</p>
+                    <p>{!! $setting['top_welcome'] !!}</p>
                 </div>
                 <div class="right-column">
                     <ul class="info clearfix">
