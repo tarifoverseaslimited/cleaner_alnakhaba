@@ -1,0 +1,25 @@
+<?php
+
+return [
+  'id' => '1',
+  'company_name' => 'Al Nakhaba',
+  'home_title_name' => 'Al Nakhaba',
+  'top_welcome' => 'Welcome to Cleaning Company of Al Nakhaba.',
+  'top_helpline' => '00966 1 4535822',
+  'top_email' => 'info@alnakhaba.com',
+  'facebook' => '',
+  'linkedin' => '',
+  'instagram' => '',
+  'twitter' => '',
+  'pinterest' => '',
+  'youtube' => '',
+  'google_plus' => '',
+  'header_logo' => 'assets/images/al_nakhaba.png',
+  'mobile_logo' => 'assets/images/logo-2.png',
+  'footer_logo' => 'assets/images/1.jpg',
+  'newsletter_logo' => 'assets/images/resource/footer-1.png',
+  'office_address' => '2643, bdul rahman al-ghafiqi, al rawda - 7832, 13213 ,Riyadh Saudi Arabia',
+  'footer_email' => 'contact@alnakhaba.com',
+  'footer_phone' => '+ 00966 1 4535822',
+  'copyright_text' => '© Copyright <a href="">Al Nakhaba</a>. All right reserved.',
+];
