@@ -4,7 +4,7 @@
             'id' => 1,
             'name' => 'Hotel Cleaner',
             'slug' => 'hotel-cleaner',
-            'image' => 'assets/images/service/service 1.png',
+            'image' => 'assets/images/service/Service 1.png',
             'icon' => 'icon-9.png',
             'short_description' => 'Hotel Cleaner Job in Saudi Arabia – A Promising Opportunity
 
@@ -64,7 +64,7 @@ If you are interested in a stable and rewarding job as a Hotel Cleaner in Saudi 
             'id' => 2,
             'name' => 'Restaurant Cleaner',
             'slug' => 'restaurant-cleaner',
-            'image' => 'assets/images/service/service 2.png',
+            'image' => 'assets/images/service/Service 2.png',
             'icon' => 'icon-9.png',
             'short_description' => 'We remove deep-seated dirt, stains, and allergens using advanced techniques, leaving carpets fresh, clean, and hygienic for a healthier indoor environment.',
             'long_description' => '<div class="col-lg-8 col-md-6 col-sm-12 content-column">
@@ -120,7 +120,7 @@ If you are interested in a stable and rewarding job as a Hotel Cleaner in Saudi 
             'id' => 3,
             'name' => 'Office Cleaner',
             'slug' => 'office-cleaner',
-            'image' => 'assets/images/service/service 3.png',
+            'image' => 'assets/images/service/Service 3.png',
             'icon' => 'icon-9.png',
             'short_description' => 'Saudi Arabia\'s corporate sector is growing rapidly, leading to an increasing demand for Office Cleaners. Clean and well-maintained offices are essential for a productive work environment. As a result, professional cleaning services have become a necessity. Al-Nakhaba Company is currently hiring skilled and hardworking individuals for Office Cleaner positions in various business establishments across Saudi Arabia.',
             'long_description' => '<div class="col-lg-8 col-md-6 col-sm-12 content-column">
@@ -177,7 +177,7 @@ If you are interested in a stable and rewarding job as a Hotel Cleaner in Saudi 
             'id' => 4,
             'name' => 'Airport Cleaner',
             'slug' => 'airport-cleaner',
-            'image' => 'assets/images/service/service 4.png',
+            'image' => 'assets/images/service/Service 4.png',
             'icon' => 'icon-9.png',
             'short_description' => 'Floor polishing is a professional service that restores the shine, smoothness, and durability of various flooring types, including marble, tile, hardwood, and concrete. Over time, floors accumulate dirt, scratches, and wear, causing them to look dull and aged. Professional polishing involves deep cleaning, buffing, and applying protective coatings to enhance appearance and longevity. High-speed polishing machines and eco-friendly solutions remove stains, scuff marks, and imperfections, leaving floors looking brand new. Regular polishing extends floor lifespan, reduces maintenance costs, and improves the overall aesthetics of homes, offices, and commercial spaces.',
             'long_description' => '<div class="col-lg-8 col-md-6 col-sm-12 content-column">
@@ -235,7 +235,7 @@ If you are interested in a stable and rewarding job as a Hotel Cleaner in Saudi 
             'id' => 5,
             'name' => 'Mosque Cleaner',
             'slug' => 'mosque-cleaner',
-            'image' => 'assets/images/service/service 5.png',
+            'image' => 'assets/images/service/Service 5.png',
             'icon' => 'icon-9.png',
             'short_description' => 'Yacht cleaning services ensure that boats remain in pristine condition, free from salt, mold, and mildew buildup. Marine environments expose yachts to harsh elements, leading to corrosion, fading, and structural damage. Professional yacht cleaners use specialized, marine-safe products to clean and protect exteriors, decks, upholstery, and engine rooms. Routine cleaning preserves the yacht’s luxurious appeal, prevents damage, and extends its lifespan. By maintaining a spotless and sanitized interior, yacht owners and guests can enjoy a comfortable and hygienic experience on board.',
             'long_description' => '<div class="col-lg-7 col-md-6 col-sm-12 content-column">
