@@ -95,9 +95,9 @@
                 <div class="col-lg-5 col-md-12 col-sm-12 image-column">
                     <div class="image_block_one">
                         <div class="image-box">
-                            <figure class="image"><img src="{{asset('/')}}assets/images/resource/about-10.jpg" alt=""></figure>
+                            <figure class="image"><img src="{{asset('/')}}assets/images/resource/about.jpg" alt=""></figure>
                             <div class="text-box">
-                                <h2>30</h2>
+                                <h2>20</h2>
                                 <p>Years of experience in this field</p>
                             </div>
                         </div>
@@ -255,7 +255,7 @@
                 </div>
                 <div class="col-lg-5 col-md-12 col-sm-12 image-column">
                     <div class="image-box">
-                        <figure class="image"><img src="{{asset('/')}}assets/images/resource/cta-2.png" alt=""></figure>
+                        <figure class="image"><img src="{{asset('/')}}assets/images/resource/cta-1.png" alt=""></figure>
                         <div class="image-shape">
                             <div class="shape-1"></div>
                             <div class="shape-2"></div>

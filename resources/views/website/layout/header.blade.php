@@ -28,7 +28,7 @@
                 <div class="logo-box">
                     <figure class="logo">
                         <a href="{{route('home')}}">
-                            <img width="130" src="{{asset('/')}}{{$setting['header_logo']}}" alt="">
+                            <img width="250" src="{{asset('/')}}{{$setting['header_logo']}}" alt="">
                         </a></figure>
                 </div>
                 <div class="menu-area clearfix">
@@ -70,7 +70,7 @@
                 <div class="logo-box">
                     <figure class="logo">
                         <a href="{{route('home')}}">
-                            <img width="130" class="img-fluid" src="{{asset('/')}}{{$setting['header_logo']}}" alt="">
+                            <img width="250" class="img-fluid" src="{{asset('/')}}{{$setting['header_logo']}}" alt="">
                         </a>
                     </figure>
                 </div>

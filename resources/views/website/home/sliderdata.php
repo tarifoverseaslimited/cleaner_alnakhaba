@@ -19,7 +19,7 @@ return [
         'button' => 'view all services',
         'button_url' => route('service'),
         'image' => 'assets/images/banner/banner-9.jpg',
-        'status' => 1,
+        'status' => 0,
     ],
     [
         'id' => 3,
@@ -40,7 +40,7 @@ return [
         'button' => 'view all services',
         'button_url' => route('service'),
         'image' => 'assets/images/banner/banner-11.jpg',
-        'status' => 1,
+        'status' => 0,
     ],
     [
         'id' => 5,
@@ -51,6 +51,6 @@ return [
         'button' => 'view all services',
         'button_url' => route('service'),
         'image' => 'assets/images/banner/banner-12.jpg',
-        'status' => 1,
+        'status' => 0,
     ],
 ];

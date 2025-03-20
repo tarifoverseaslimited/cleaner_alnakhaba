@@ -9,7 +9,7 @@
                 <div class="col-lg-6 col-md-12 col-sm-12 image-column">
                     <div class="image_block_seven">
                         <div class="image-box">
-                            <figure class="image image-1"><img src="assets/images/resource/about-12.jpg" alt=""></figure>
+                            <figure class="image image-1"><img src="assets/images/resource/about-2.png" alt=""></figure>
                             <figure class="image image-2"><img src="assets/images/resource/about-13.jpg" alt=""></figure>
                             <div class="text-inner">
                                 <div class="inner">
